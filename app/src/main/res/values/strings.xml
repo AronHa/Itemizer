@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Itemizer</string>
+    <string name="new_item">New Item</string>
+    <string name="update_item">Update Item</string>
+    <string name="input_date">Date</string>
+    <string name="input_desc">Description</string>
+    <string name="input_amount">Amount</string>
+    <string name="new_file">New File</string>
+    <string name="update_file">Update File</string>
+    <string name="filename">File Name</string>
+    <string name="units">Unit Type</string>
+</resources>

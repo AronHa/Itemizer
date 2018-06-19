@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--https://stackoverflow.com/questions/15128652/how-to-add-vertical-divider-to-a-horizontal-linearlayout-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="2dp"/>
+    <solid android:color="@android:color/primary_text_dark"/>
+</shape>
